@@ -1,4 +1,4 @@
-from pathlib import Path
+
 
 readme = r"""# MercadoPro — Fase 10
 
