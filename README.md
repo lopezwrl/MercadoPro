@@ -1,6 +1,4 @@
-
-
-readme = r"""# MercadoPro — Fase 10
+MercadoPro — Fase 10
 
 > **Sistema de gestão para mercadinho | Guia oficial de instalação, configuração e execução**
 
